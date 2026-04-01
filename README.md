@@ -90,4 +90,4 @@ Ask in the friendly <a href="https://gsap.com/community/">GSAP forums</a>. Or sh
 ### License
 GreenSock's standard "no charge" license can be viewed at <a href="https://gsap.com/standard-license">https://gsap.com/standard-license</a>.
 
-Copyright (c) 2008-2025, GreenSock. All rights reserved.
+Copyright (c) 2008-2025, GreenSock. All rights reserved. 
